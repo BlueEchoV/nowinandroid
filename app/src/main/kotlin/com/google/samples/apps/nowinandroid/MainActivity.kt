@@ -52,6 +52,8 @@ import kotlinx.coroutines.flow.onEach
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
+// Test commit
+
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
 
